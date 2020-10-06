@@ -1,0 +1,49 @@
+
+ALM COMPONENTS:
+
+Dashboard:
+
+Analysis View
+Dashboard view
+
+Management:
+
+Releases
+Libraries
+
+Requirements:
+
+Requirements:
+
+Functional
+Testing
+Performance
+Business
+
+Parent --> Child
+
+Requirement Name
+Requirement Type
+Author
+Creation Date Time
+Priority
+Target Release
+Attachment
+Linked Defects
+Requirement Traceability
+Test Coverage
+Business Models
+Risk Assessment
+
+
+Business Models
+
+Testing:
+
+Test Resources
+Business Components
+Test Plan
+Test Lab
+Test Runs
+
+Defects:
